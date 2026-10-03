@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">禅息</string>
+    <string name="app_sub">瑜伽 · 静息计时</string>
+    <string name="notif_channel_name">练习计时</string>
+    <string name="notif_channel_desc">显示练习倒计时，快捷暂停与结束</string>
+</resources>

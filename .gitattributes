@@ -1,0 +1,16 @@
+* text=auto
+
+# 明确标记二进制，避免被行尾转换破坏
+*.png binary
+*.jpg binary
+*.wav binary
+*.jar binary
+*.apk binary
+*.jks binary
+
+# 脚本统一 LF
+*.sh text eol=lf
+*.ps1 text
+*.py text
+*.java text
+*.xml text

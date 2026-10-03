@@ -1,0 +1,21 @@
+# 构建产物
+build/
+dist/
+
+# 本地 Android 工具链（约 360MB，用 tools/ 里的脚本可重新获取）
+.toolchain/
+
+# 签名密钥：构建脚本会在本地自动生成，不入库
+keystore/
+
+# 编辑器 / 系统
+.idea/
+.vscode/
+*.iml
+*.log
+Thumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.pyc
